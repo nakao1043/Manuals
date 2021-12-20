@@ -2,7 +2,8 @@
 
 1. ##### VSCodeの拡張機能「ForceCode」をインストール
 
-   ![image-20211217112405565](img\image-20211217112405565.png)
+   ![image]('img\image-20211217112405565.png')
+   
 
    
 
